@@ -6,4 +6,7 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-|Informatics|CompScience|MultimodalComposition|
+|Course Number|Course Title|Course Instructor|
+|201???|Info|MikeyMichael|
+|143x|CSE|ThatConnerGuy|
+|182|MultimodalComp|Dana first of her name|
